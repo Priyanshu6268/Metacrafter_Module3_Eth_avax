@@ -63,7 +63,7 @@ This repository contains a Solidity smart contract for an ERC20 token, created a
 
 ## Video Walkthrough
 
-[[https://www.loom.com/share/3b98079def6840619d7a3a30adeb3daa]](#) (Link to be added)
+[[https://www.loom.com/share/3b98079def6840619d7a3a30adeb3daa]](#) 
 
 ## Further Information
 
