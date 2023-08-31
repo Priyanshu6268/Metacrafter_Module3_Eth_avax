@@ -20,4 +20,8 @@ contract MyToken is ERC20 {
         _burn(msg.sender, amount);
     }
     
+    function coinTransfer(address recipient, uint256 amount) public returns (bool) {
+        _transfer(msg.sender, recipient, amount);
+        return true;
+    }
 }
